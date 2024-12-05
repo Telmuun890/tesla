@@ -1,0 +1,34 @@
+<!-- 1 -->
+    <section class="section" id=""
+        style="
+         background-image: url(https://s3-alpha-sig.figma.com/img/6d7a/23be/cb6af393851dc03dd35d09417c2ceadd?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=A2N1EiDXM78oEnfcqRNcU562vlI74OmHRzJ6gdG0lwT6TONFSwasuBvISCW4CD~kO71En3Ubpl1G4IIWdvUKZwOdr60YwxbPTilUKhYChQJHuwDuGsziQGRFYx3OEN4csRQlfOXYPlmjwG0DH0Eb4EJ6RiB4OeuFtLPrHAOhUt4tIjMbo9~sCF58KaDK0rs0yIM-BEa9eeudJ8bFsWMttKRi7d3pwB2~4mejediSzRuOMWpZL5y37KfgSo7KZ6-ssyfO-My6qJQrwon7D~wwzTDbn45qxHhqL8bOK8ezuEtTms7QTrO4I5kT7-8gxp0SBhk31iPD0ipPkvKoYEoTjw__) ">
+ 
+        <div class="div1">
+            <div style="text-align: center; ">
+                <h1
+                    class="title">
+                    Model Y </h1>
+                <p class="p1">
+                    From $31,890 </p>
+                <p
+                    class="p2">
+                    After Federal Tax Credit & Est. Gas Savings</p>
+            </div>
+ 
+            <div class="div2">
+                <button class="buttun btnwhite">Shop
+                    Available</button>
+                <button class="button btnblack">Demo
+                    drive</button>
+                <p class="p3">
+                    *Price
+                    before incentivesss
+                    and savings is $42,990, excluding taxes and fees. Subject to change.
+                </p>
+                <a href="https://s3-figma-videos-production-sig.figma.com/video/1141970659621589204/TEAM/a073/84e0/-ab46-44a4-9673-665bcb614dd8?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KehocOunAvLVi1Nlm2hQ4yME-EUP0ML~0uSn3e7P5nHuP~MqnvYv~t2Hicp~oQgztUd632mTAnvqEgoxBAYKUAX7Nqjb4EVyqvA0BpppClkuDAvhqFtlEmYHy4us6gTdtJEBBShT9nACtYFRI~lM79FGQAtef6gT-lxoA0OAPT4~v-rTCpZs2tc7dvEDjznKeu79V9CzfsUrHk6mwFyzFNjqLwcqzhGHsQAVjFNkWfonarFA7EW4xEI3h2nHlob5EbCDz80mXTP33QAbtSLiXn6jcpBqIwgLNSKkmDdzqqd1KTGaxsHTijPkujNnhcIVoHcHLrTAiXvi-12ek13fBg__"
+                 class="p4">Learn
+                    about est. gas savings.</a>
+                </div>
+        </div>
+ 
+    </section>

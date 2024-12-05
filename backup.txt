@@ -1,0 +1,261 @@
+<!-- 2 -->
+<section style="background-image: url(https://s3-alpha-sig.figma.com/img/d6e6/6c6b/c7b9a89b28e7054d63200682392b3184?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q33xQ4HwTUIREWfEYMgM1StBCZl1pSngxF93uztCgbw8MF3FiQIzBPd4tTNJADm5pgNgFNf3H97ebZFVHpBz1K3uv8PBv6sq~p8tjTLXiaeUZDC3e~lZ3z2tJPQsbxq6XZdR5JlJwdVOhxwpnasw2XAmLZA8znqy9U2J3qnB8le9uSLx7p5lW~zBNlrskoINi8RWqFhF0cTAZH6pqhNMz14OFIM5JMACaznCT-L9BwDw4btJFDaCDFi8VvfBuG-o~pJ~EFyAUHiD2JCSfYOBQaxRV8cM2GVYOjPLyVf3Fb2gYGQOXoKPzB2Ysich1byC0rQmtF0Er3Bmq26c5g5Mpg__) ; 
+background-size:cover;
+height: 100vh; 
+margin: 0%;">
+<div style="text-align: center;">
+    <h1 style="
+        margin: 0;
+        padding-top: 200px;
+        color: black;
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 48px;
+        text-align: center;"> Brand New Model 3</h1>
+        <p style="
+        color: black;
+        font-size: 20px;
+        font-weight: 235;
+        line-height: 40px;
+        margin: 0%;"> Lease starting at $329/mo* </p>
+        <div style=" padding-top: 58vh;
+        margin: 0;
+        text-align: center;">
+        <button style="
+        margin-right:12px;
+          width: 280px;
+          border: 0cap;
+          padding: 11px 40px;
+          border-radius: 4px;
+          background-color: #f4f4f4cc;
+          backdrop-filter: blur(8px);  
+         text-align: center;   
+         font-size: 14px ;
+         line-height: 18px;
+         font-weight: 500;
+         text-align: center;
+     
+      "> Shop Availble </button>
+      <button style="
+      margin-left: 12px;
+      width: 280px;
+      border: 0cap;
+      padding: 11px 40px;
+      border-radius: 4px;
+      background-color: #171A20A6;
+      backdrop-filter: blur(8px);  
+     text-align: center;   
+     font-size: 14px ;
+     line-height: 18px;
+     font-weight: 500;
+     text-align: center;
+     color: aliceblue;
+ 
+  "> Demo Drive </button>
+      </div>
+      <p style=
+        "color: aliceblue ;
+        padding-top:10px ;
+        font-size: 12px;
+        font-weight:500;
+        line-height: 18px;
+        "> *Excludes taxes and fees with price subject to change. Available in select states.  </p>
+        
+        <a href="#https://www.figma.com/design/Fy0trOvqLgqD7fecbA8MRJ/Tesla-Website?node-id=2-2&node-type=frame&t=jYUPKQqTKdS2GOa4-0" style=
+        " padding: 0%; color: aliceblue;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 18px;
+        "> See Details </a >
+</div>
+</section>
+<!-- 3 -->
+ <section style="background-image:url(https://s3-alpha-sig.figma.com/img/7348/b3e8/d0d912a18fa6ec4f1888f100bc845c36?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=O0Q2WJyvhEWHF9dHWYuPpTMKXyR9I6153caEskgEmUALqAiCmkG-GDjAVcUTYPlvrqeUm1ORgjHEJb3pNnGiZX8~CoHeae1b1ZAg~-AMfTlUpazI3fhREooY9~38eTqU7z8o8qt5hI-WCYBj4nuxxlbaelXple4yDCOufd~oU9-9xAOy6I6W2MdMLx75PnBuWbv1QWfDaXz2-0OqUk1~o7VM71CHvHcjTEW7abv4PT2m84MRw-4UKoNCYgXC-iOWVa8niqsur8QeS-8SEhx6PsGt4552DiWtyZ7NhOwNrdXevC0IGulNRCg-T6fU2kimw8fIo3TCKJtKeBa60UMtQg__);
+ background-size:cover;
+ height: 100vh;
+ margin: 0%;">
+ <div style="text-align: center;">
+    <h1 style=
+        "
+        margin: 0 ;
+         padding-top: 200px ;
+          color: black;
+        font-size: 40px;
+         font-weight: 500;
+        line-height: 48px;
+        text-align: center "> Model X </h1>
+         <p style=" color: black;
+        font-size: 20px; 
+        font-weight: 500; 
+        line-height: 20px; 
+        margin:0;
+        " 
+        > From $68,590* </p>
+        <p style="
+        margin: 0; color: black;
+        font-size: 12px;
+        font-weight: 500; 
+        line-height: 20 px;
+        padding-top: 5px;
+        "> After Federal Tax Credit & Est. Gas Savings </p>
+ </div>
+ <div style=" padding-top: 58vh;
+        margin: 0;
+        text-align: center;">
+        <button style="
+        margin-right:12px;
+          width: 280px;
+          border: 0cap;
+          padding: 11px 40px;
+          border-radius: 4px;
+          background-color: #f4f4f4cc;
+          backdrop-filter: blur(8px);  
+         text-align: center;   
+         font-size: 14px ;
+         line-height: 18px;
+         font-weight: 500;
+         text-align: center;
+     
+      "> Custom Order </button>
+      <button style="
+      margin-left: 12px;
+      width: 280px;
+      border: 0cap;
+      padding: 11px 40px;
+      border-radius: 4px;
+      background-color: #171A20A6;
+      backdrop-filter: blur(8px);  
+     text-align: center;   
+     font-size: 14px ;
+     line-height: 18px;
+     font-weight: 500;
+     text-align: center;
+     color: aliceblue;
+ 
+  "> Demo Drive </button>
+  <p style=
+  "color: aliceblue ;
+  padding-top:10px ;
+  font-size: 12px;
+  font-weight:500;
+  line-height: 18px;
+  "> *Price before incentives and savings is $79,990, excluding taxes and fees. Subject to change.  </p>
+  
+  <a href="#https://www.figma.com/design/Fy0trOvqLgqD7fecbA8MRJ/Tesla-Website?node-id=2-2&node-type=frame&t=jYUPKQqTKdS2GOa4-0" style=
+  " padding: 0%; color: aliceblue;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  "> Learn about est. gas savings. </a >
+      </div>
+ </section>
+ <!-- 4 -->
+  <section
+  style=" background-image:url(https://s3-alpha-sig.figma.com/img/8520/0e04/bd6a0fdc156a53b211754b905057b7df?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cgTzEYRfp6CWNlvuE9sgBpkUbzjDURrZxm9wOopqZWxc2mcWQXbZNKi0CfUcFLRMEPug22-G1ZAeS6Pyd2OziTnz0srv1j-FEYXdi9NY6-JkfHTipzQXeO3iG~lYVuTHT~XjSR2shjWFZuCZSSX517YIoa~iodAA7Tp6J8xoRnGWv1wUiFcW-vmJx3g~Czv3TdHexk5JbqUyV8ohwS1ETtE5L-HVwhehygAf0Z5MY0fJ-6irynKOAniU8gKBR1fUSH2J8p7~ZmqTSPyF683LCpsXtnTbkkigIiOCJwG-Rl5rKA7RbwVDb6cSCNJOY595NpGXwbBgxDqOArMM0IyBRw__);
+  background-size:cover;
+  height: 100vh ;
+  margin: 0%;">
+  <div style="text-align: center;">
+    <h1 style=
+        "
+        margin: 0 ;
+         padding-top: 200px ;
+          color: black;
+        font-size: 40px;
+         font-weight: 500;
+        line-height: 48px;
+        text-align: center "> Model S </h1>
+         <p style=" color: black;
+        font-size: 20px; 
+        font-weight: 500; 
+        line-height: 20px; 
+        margin:0;
+        " 
+        > From $71,090* </p>
+        <p style="
+        margin: 0; color: black;
+        font-size: 12px;
+        font-weight: 500; 
+        line-height: 20 px;
+        padding-top: 5px;
+        "> After Est. Gas Savins </p>
+        <div style=" padding-top: 58vh;
+        margin: 0;
+        text-align: center;">
+        <div style=" padding-top: 2vh;
+        margin: 0;
+        text-align: center;">
+        <button style="
+        margin-right:12px;
+          width: 280px;
+          border: 0cap;
+          padding: 11px 40px;
+          border-radius: 4px;
+          background-color: #f4f4f4cc;
+          backdrop-filter: blur(8px);  
+         text-align: center;   
+         font-size: 14px ;
+         line-height: 18px;
+         font-weight: 500;
+         text-align: center;
+     
+      "> Custom Order </button>
+      <button style="
+      margin-left: 12px;
+      width: 280px;
+      border: 0cap;
+      padding: 11px 40px;
+      border-radius: 4px;
+      background-color: #171A20A6;
+      backdrop-filter: blur(8px);  
+     text-align: center;   
+     font-size: 14px ;
+     line-height: 18px;
+     font-weight: 500;
+     text-align: center;
+     color: aliceblue;
+ 
+  "> Demo Drive </button>
+  <p style=
+  "color: aliceblue ;
+  padding-top:10px ;
+  font-size: 12px;
+  font-weight:500;
+  line-height: 18px;
+  "> *Price before incentives and savings is $79,990, excluding taxes and fees. Subject to change.  </p>
+  
+  <a href="#https://www.figma.com/design/Fy0trOvqLgqD7fecbA8MRJ/Tesla-Website?node-id=2-2&node-type=frame&t=jYUPKQqTKdS2GOa4-0" style=
+  " padding: 0%; color: aliceblue;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  "> Learn about est. gas savings. </a >
+      </div>
+        
+
+ </div>
+</section>
+<!-- 5 -->
+ <section
+ style=" background-image: url(https://s3-alpha-sig.figma.com/img/76d8/53f4/a13f230d90c69b3806b4b679cf16c9ed?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NLHZqTBCODF9JA3XEqP6HKXRH1flJccrtItRcZnatKta~WMFV9MiesLCCBYWxnZBjtf42OG-hALgofxlVOizzCbz1x5ROGG5Txjlz7N9ct84uAU5CnqHrrZEkquvpog4psF6JE0WLXXE18GxxOJ1RehYKg5TG0vXRw449~kGC5fdMlPwCa9G~daryQ36AC1vwB-JfQDmles-S1Ad94MT-~9R5un9wtQkGD2Eh~suitMd-whq21zpZNbO6tbEoTN6QCQ8K73joQh2-hZsUMnmfeSZRyXC-X8fQ3ha5DFkEJOPmSgG8iPKcqGvkhHzzlyFA~QtkPlud4M0XI15UEMwdA__);
+ background-size: cover;
+ height:100vh ;"></section>
+ <div style=" height: 100vh ;
+ display: flex;"> 
+ <button style="
+      margin-left: 12 px;
+      width: 280px;
+      border: 0cap;
+      padding: 11px 40px;
+      border-radius: 4px;
+      background-color: #171A20A6;
+      backdrop-filter: blur(8px);  
+     text-align: center;   
+     font-size: 14px ;
+     line-height: 18px;
+     font-weight: 500;
+     text-align: center;
+     color: aliceblue;
+ 
+  "> Demo Drive </button>
+</div>
